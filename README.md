@@ -1,1 +1,5 @@
-# api-zing-mp3
+### API version local
+
+- Clone về
+- Mở project
+- npm start
